@@ -9,7 +9,7 @@
 3. 程序成功编译并运行
 4. 链接已有的静态库 `libdynamicx_cmake.a`
 
-**你需要做的：编写正确的CMakeLists.txt文件！！！**
+**你需要做的：仅需要编写正确的CMakeLists.txt文件！！！**
 
 要求生成 `calc`（或 `calculator`）可执行文件，（每条命令不报错）并能执行：
 
