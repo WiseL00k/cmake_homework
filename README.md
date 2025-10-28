@@ -2,19 +2,6 @@
 
 ## 要求
 
-### 仓库框架
-
-<your_project_dir>/
-│
-├── inc/
-│   └── calc.h
-├── src/
-│   ├── main.cpp
-│   └── calc.cpp
-├── lib/
-│   └── libdynamicx_cmake.a   # 已提供静态库文件
-└── CMakeLists.txt            # 需要你补充
-
 ### 功能说明
 
 1. `main.cpp` 调用 `calc.cpp` 中的加减乘除函数
